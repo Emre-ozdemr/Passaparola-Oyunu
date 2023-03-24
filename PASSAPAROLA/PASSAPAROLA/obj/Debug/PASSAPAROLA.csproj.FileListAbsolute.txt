@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\bin\Debug\PASSAPAROLA.exe.config
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\bin\Debug\PASSAPAROLA.exe
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\bin\Debug\PASSAPAROLA.pdb
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\obj\Debug\PASSAPAROLA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\obj\Debug\PASSAPAROLA.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\obj\Debug\PASSAPAROLA.Form1.resources
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\obj\Debug\PASSAPAROLA.Properties.Resources.resources
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\obj\Debug\PASSAPAROLA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\obj\Debug\PASSAPAROLA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\obj\Debug\PASSAPAROLA.exe
+C:\Users\user\Desktop\UDEMY PROJELER\PASSAPAROLA\PASSAPAROLA\obj\Debug\PASSAPAROLA.pdb
